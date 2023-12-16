@@ -9,6 +9,6 @@ namespace Homework
     class Handler2
     {
         public void Message()
-        { Console.WriteLine("Дождалась!! Бегу слушать новый альбом"); }
+        { Console.WriteLine("Дождался! Бегу слушать новый альбом"); }
     }
 }
